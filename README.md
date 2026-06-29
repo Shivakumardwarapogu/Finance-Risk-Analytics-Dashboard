@@ -1,5 +1,7 @@
 # 📈 Investment Portfolio Analytics using Python & Power BI
 
+### End-to-End Financial Analytics Solution for Risk Assessment, Portfolio Optimization, and Investment Decision Support
+
 ## 📖 Project Overview
 
 This project presents an end-to-end financial analytics solution developed to support investment portfolio decision-making through data-driven insights. By analyzing historical stock market data across multiple industries, the project evaluates investment performance, portfolio risk, and return potential to recommend portfolios aligned with different investor risk profiles.
@@ -7,6 +9,30 @@ This project presents an end-to-end financial analytics solution developed to su
 The solution combines Python-based data analysis, statistical modeling, and interactive Power BI visualizations to transform raw financial data into actionable business insights. It demonstrates the complete analytics lifecycle—from data cleaning and exploratory data analysis (EDA) to portfolio optimization and executive dashboard reporting.
 
 As part of a two-member capstone project, I contributed to data preprocessing, exploratory data analysis, financial performance analysis, business insight generation, and the development of the interactive Power BI dashboard.
+
+## 📌 Project at a Glance
+
+| Category | Details |
+|----------|---------|
+| **Project Type** | Financial Analytics & Business Intelligence |
+| **Domain** | Investment Portfolio Management |
+| **Duration** | Capstone Project |
+| **Team Size** | 2 Members |
+| **Role** | Data Analysis, Financial Analytics, Power BI Dashboard Development |
+| **Tools Used** | Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Power Query |
+| **Dataset** | Historical Stock Market Data (24 Companies, 5 Industries, 2010–2020) |
+| **Outcome** | Investment Portfolio Recommendations based on Risk & Return Analysis |
+
+## ⭐ Project Highlights
+
+- 📊 Analyzed historical stock market data for **24 companies** across **5 industries**.
+- 📈 Evaluated investment performance using **Annualized Returns**, **Cumulative Returns**, and **Sharpe Ratio**.
+- ⚖️ Compared portfolio risk and return to support informed investment decisions.
+- 👥 Designed personalized investment recommendations for **Conservative** and **Aggressive** investor profiles.
+- 📉 Assessed market behavior during significant events, including the **COVID-19 pandemic**.
+- 📊 Developed an interactive **Power BI Executive Dashboard** to communicate insights effectively.
+
+
 
 ### 🎯 Business Objective
 
