@@ -231,4 +231,4 @@ Potential improvements that could further enhance this solution include:
 
 The Power BI dashboard provides an executive-level view of portfolio performance, stock returns, sector comparisons, portfolio risk, and investment recommendations. It enables investors to compare industries, evaluate risk-adjusted returns, and make data-driven portfolio decisions through an interactive visual interface.
 
-![Executive Dashboard](Images/dashboard.png)
+![Executive Dashboard](dashboard.png)
