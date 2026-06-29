@@ -1,105 +1,13 @@
-# 📊 Finance & Risk Analytics Dashboard
+# 📈 Investment Portfolio Analytics using Python & Power BI
 
-## 📌 Overview
+## 📖 Project Overview
 
-This project presents an interactive **Power BI dashboard** developed to analyze financial performance and business risk metrics. It enables stakeholders to monitor profitability, identify risk trends, and make data-driven decisions through dynamic visualizations and KPI tracking.
+This project presents an end-to-end financial analytics solution developed to support investment portfolio decision-making through data-driven insights. By analyzing historical stock market data across multiple industries, the project evaluates investment performance, portfolio risk, and return potential to recommend portfolios aligned with different investor risk profiles.
 
----
+The solution combines Python-based data analysis, statistical modeling, and interactive Power BI visualizations to transform raw financial data into actionable business insights. It demonstrates the complete analytics lifecycle—from data cleaning and exploratory data analysis (EDA) to portfolio optimization and executive dashboard reporting.
 
-## 🚀 Key Features
+As part of a two-member capstone project, I contributed to data preprocessing, exploratory data analysis, financial performance analysis, business insight generation, and the development of the interactive Power BI dashboard.
 
-- 📈 Interactive Power BI Dashboard
-- 💰 Revenue, Profit & Cost Analysis
-- 📊 Financial KPI Monitoring
-- ⚠️ Risk Trend Analysis
-- 🎯 Dynamic Filters & Drill-through
-- 📑 Executive Summary Dashboard
+### 🎯 Business Objective
 
----
-
-## 🛠️ Tools & Technologies
-
-- Microsoft Power BI
-- SQL
-- Microsoft Excel
-- DAX
-- Data Modeling
-
----
-
-## 💼 Business Impact
-
-- Reduced manual reporting through dashboard automation
-- Improved visibility into key financial KPIs
-- Enabled faster, data-driven business decisions
-- Enhanced financial performance monitoring and risk analysis
-
----
-
-## 📷 Dashboard Preview
-
-> *(Add your dashboard screenshots below)*
-
-### Executive Dashboard
-
-![Dashboard Overview](Images/dashboard-overview.png)
-
-### Financial Performance Dashboard
-
-![Financial Dashboard](Images/financial-dashboard.png)
-
-### Risk Analysis Dashboard
-
-![Risk Dashboard](Images/risk-dashboard.png)
-
----
-
-## 📂 Repository Structure
-
-```text
-Finance_and_Risk_Analytics/
-│
-├── Dashboard/
-│   └── Project Dashboard.pbix
-│
-├── Dataset/
-│   └── stocks_final.csv
-│
-├── Images/
-│   ├── dashboard-overview.png
-│   ├── financial-dashboard.png
-│   └── risk-dashboard.png
-│
-├── Presentation/
-│   └── Capstone Project PPT.pptx
-│
-└── README.md
-```
-
----
-
-## 💡 Skills Demonstrated
-
-- Business Intelligence
-- Data Visualization
-- Dashboard Design
-- SQL
-- DAX
-- Data Modeling
-- Financial Analytics
-- KPI Reporting
-- Data Storytelling
-
----
-
-## 👤 Author
-
-**Shiva Kumar**
-
-**Business Analyst | Data Analyst | Power BI Developer**
-
-📧 Feel free to connect for collaboration, freelance projects, or data analytics opportunities.
-
----
-
-⭐ If you found this project useful, consider giving it a **Star** on GitHub.
+To analyze historical stock performance across multiple industry sectors and develop personalized investment recommendations for investors with varying financial goals and risk tolerance, enabling informed and data-driven portfolio decisions.
