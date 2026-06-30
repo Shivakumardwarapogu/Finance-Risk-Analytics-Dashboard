@@ -35,6 +35,19 @@ As part of a two-member capstone project, I contributed to data preprocessing, e
 | **Dataset** | Historical Stock Market Data (24 Companies, 5 Industries, 2010–2020) |
 | **Outcome** | Investment Portfolio Recommendations based on Risk & Return Analysis |
 
+## 🎯 Skills Demonstrated
+
+- Financial Data Analysis
+- Business Intelligence
+- Exploratory Data Analysis (EDA)
+- Portfolio Optimization
+- Risk Analysis
+- Data Visualization
+- Executive Dashboard Development
+- Business Recommendation
+- Stakeholder-Oriented Reporting
+
+  
 ## ⭐ Project Highlights
 
 - 📊 Analyzed historical stock market data for **24 companies** across **5 industries**.
@@ -310,4 +323,30 @@ Potential improvements that could further enhance this solution include:
 
 The Power BI dashboard provides an executive-level view of portfolio performance, stock returns, sector comparisons, portfolio risk, and investment recommendations. It enables investors to compare industries, evaluate risk-adjusted returns, and make data-driven portfolio decisions through an interactive visual interface.
 
+## 📈 Business Impact
+
+This solution enables investors to:
+
+- Evaluate historical stock performance using objective financial metrics.
+- Compare investment opportunities across multiple industries.
+- Balance expected returns with investment risk.
+- Build portfolios aligned with different investor profiles.
+- Support investment decisions using data-driven insights instead of intuition.
+
 ![Executive Dashboard](dashboard.png)
+
+## ✨ Key Features
+
+✔ Interactive Power BI Dashboard
+
+✔ Historical Stock Analysis
+
+✔ Portfolio Risk Assessment
+
+✔ Sharpe Ratio Analysis
+
+✔ Sector-wise Performance Comparison
+
+✔ Investor-specific Recommendations
+
+✔ Executive Reporting
