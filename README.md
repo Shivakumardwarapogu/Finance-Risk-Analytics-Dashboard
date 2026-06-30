@@ -2,6 +2,18 @@
 
 ### End-to-End Financial Analytics Solution for Risk Assessment, Portfolio Optimization, and Investment Decision Support
 
+<img width="1677" height="938" alt="banner" src="https://github.com/user-attachments/assets/3c2b96fc-4435-4dcc-a6ea-fd9b052b38c7" />
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0052CC?style=for-the-badge)
+![Financial Analytics](https://img.shields.io/badge/Financial_Analytics-0A7E07?style=for-the-badge)
+
 ## 📖 Project Overview
 
 This project presents an end-to-end financial analytics solution developed to support investment portfolio decision-making through data-driven insights. By analyzing historical stock market data across multiple industries, the project evaluates investment performance, portfolio risk, and return potential to recommend portfolios aligned with different investor risk profiles.
@@ -33,6 +45,47 @@ As part of a two-member capstone project, I contributed to data preprocessing, e
 - 📊 Developed an interactive **Power BI Executive Dashboard** to communicate insights effectively.
 
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Project at a Glance](#-project-at-a-glance)
+- [Business Problem](#-business-problem)
+- [Client Scenario](#-client-scenario)
+- [Technology Stack](#️-technology-stack)
+- [Dataset](#-dataset)
+- [Methodology](#-methodology)
+- [Executive Dashboard](#-executive-dashboard)
+- [Executive Summary & Business Insights](#-executive-summary-&-business-insights)
+- [Business Recommendations](#-business-recommendations)
+- [My Contribution](#-my-contribution)
+- [Repository Structure](#-repository-structure)
+- [Future Enhancements](#-future-enhancements)
+<img width="1677" height="938" alt="banner" src="https://github.com/user-attachments/assets/6eff4c98-13eb-4967-b2ce-224910bfe696" />
+
+
+## ▶️ How to Run the Project
+
+1. Clone this repository.
+2. Open the Jupyter Notebook to review the complete data analysis workflow.
+3. Explore the Power BI dashboard using the `.pbix` file.
+4. Review the project presentation for the business context and key findings.
+5. Refer to the Executive Dashboard image for a quick overview of the solution.
+
+## 📊 Project Metrics
+
+| Metric | Value |
+|---------|------:|
+| Industry Domains | 5 |
+| Companies Analyzed | 24 |
+| Historical Data | 10 Years |
+| Investor Profiles | 2 |
+| Dashboard Pages | 1 |
+| Analysis Environment | Jupyter Notebook |
+| Dashboard Tool | Power BI |
+
+> **Note**
+>
+> This project was developed for educational and portfolio purposes. The investment insights presented are based on historical market data and should not be interpreted as financial advice.
 
 ### 🎯 Business Objective
 
